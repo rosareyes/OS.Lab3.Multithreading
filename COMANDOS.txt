@@ -1,0 +1,3 @@
+zip os_p3_100434072_100434072_100434072.zip Makefile costCal.c queue.c queue.h authors.txt
+
+./checker_os_p3.sh os_p3_100434072_100434072_100434072.zip
